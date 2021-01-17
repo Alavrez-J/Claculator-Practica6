@@ -4,8 +4,8 @@ package ec.edu.epn;
 public class Calculator {
     private int ans;
 
-    public int addition(int a, int b) {
-        return a + b;
+    public int addition(int a, int c) {
+        return a + c;
     }
 
     public int subtraction(int a, int b) {
