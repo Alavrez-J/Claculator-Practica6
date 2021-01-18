@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="615ace7e-36ab-487a-b150-275120bd558b" name="Default Changelist" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/CalculatorExecute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ec/edu/epn/CalculatorTest.java" afterDir="false" />
+    <list default="true" id="615ace7e-36ab-487a-b150-275120bd558b" name="Default Changelist" comment="CalculatorParameterTest">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ec.edu.epn" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
@@ -61,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610926606859</updated>
-      <workItem from="1610926608823" duration="1218000" />
+      <workItem from="1610926608823" duration="1536000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1610926933121</created>
@@ -84,14 +91,48 @@
       <option name="project" value="LOCAL" />
       <updated>1610927599043</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="calculatorTest">
+      <created>1610927860832</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610927860832</updated>
+    </task>
+    <task id="LOCAL-00005" summary="calculatorTest">
+      <created>1610927911234</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610927911234</updated>
+    </task>
+    <task id="LOCAL-00006" summary="CalculatorParameterTest">
+      <created>1610928039528</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610928039528</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="calculatorTest" />
+    <MESSAGE value="CalculatorParameterTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="CalculatorParameterTest" />
   </component>
 </project>
