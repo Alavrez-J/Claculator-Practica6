@@ -4,7 +4,7 @@ import org.junit.*;
 
 import static org.junit.Assert.*;
 
-public class calculatorTest {
+public class CalculatorTest {
     private Calculator c;
 
     @BeforeClass
@@ -38,5 +38,6 @@ public class calculatorTest {
     }
 
     @Test(timeout = 150)
-    public void given_two_integers_when_multiplication_then_timeout_50(){
+    public void given_two_integers_when_multiplication_then_timeout_50() {
         System.out.println("Test 4");
+    }}
